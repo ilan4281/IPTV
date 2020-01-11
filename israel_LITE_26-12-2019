@@ -1,0 +1,268 @@
+ #EXTM3U
+#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="Israel" tvg-
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel11.il.png",Channel 11 Kan
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/channel11.il.m3u8
+
+
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel12.il.png",Channel 12 Keset
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/channel12.il.m3u8
+
+
+#EXTINF:-1 tvg-id="channel13.il" tvg-name="channel13.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel13.il.png",Channel 13 Reshet
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/channel13.il.m3u8
+
+
+#EXTINF:-1 tvg-id="channel20.il" tvg-name="channel20.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel20.il.png",Channel 20
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/channel20.il.m3u8
+
+
+#EXTINF:-1 tvg-id="big.brother.il" tvg-name="big.brother.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/big.brother.il.png",Big Brother 2020
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/big.brother.il.m3u8
+
+
+
+#EXTINF:-1 tvg-id="discoverychannel.il" tvg-name="discoverychannel.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discoverychannel.il.png",Discovery Channel
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discoverychannel.il.m3u8
+
+
+#EXTINF:-1 tvg-id="disneychannel.il" tvg-name="disneychannel.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disneychannel.il.png",Disney Channel IL
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/disneychannel.il.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ego.il" tvg-name="ego.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ego.il.png",Ego Total
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ego.il.m3u8
+
+
+#EXTINF:-1 tvg-id="eurosport1.il" tvg-name="eurosport1.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/eurosport1.il.png",Eurosport 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eurosport1.il.m3u8
+
+
+#EXTINF:-1 tvg-id="eurosport2.il" tvg-name="eurosport2.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/eurosport2.il.png",Eurosport 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eurosport2.il.m3u8
+
+
+#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="foodchannel.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/foodchannel.il.png",Food Channel
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/foodchannel.il.m3u8
+
+
+#EXTINF:-1 tvg-id="foodnetwork.il" tvg-name="foodnetwork.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/foodnetwork.il.png",Food Network
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/foodnetwork.il.m3u8
+
+
+#EXTINF:-1 tvg-id="foody.il" tvg-name="foody.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/foody.il.png",Foody
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/foody.il.m3u8
+
+
+#EXTINF:-1 tvg-id="goodlife.il" tvg-name="goodlife.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/goodlife.il.png",Good Life
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/goodlife.il.m3u8
+
+
+#EXTINF:-1 tvg-id="greek.music.il" tvg-name="greek.music.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/greek.music.il.png",Greek Music
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/greek.music.il.m3u8
+
+
+#EXTINF:-1 tvg-id="health.il" tvg-name="health.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/health.il.png",Health
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/health.il.m3u8
+
+
+
+#EXTINF:-1 tvg-id="hidabrot.il" tvg-name="hidabrot.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hidabrot.il.png",Hidabrot
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hidabrot.il.m3u8
+
+
+#EXTINF:-1 tvg-id="homeplus.il" tvg-name="homeplus.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/homeplus.il.png",Home Plus
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/homeplus.il.m3u8
+
+
+
+#EXTINF:-1 tvg-id="hotaction.il" tvg-name="hotaction.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotaction.il.png",Hot Action
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotaction.il.m3u8
+
+
+
+#EXTINF:-1 tvg-id="hotchannel8.il" tvg-name="hotchannel8.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotchannel8.il.png",HOT Channel 8
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotchannel8.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotcomedycentral.il" tvg-name="hotcomedycentral.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotcomedycentral.il.png",HOT Comedy Central
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotcomedycentral.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotdrama.il" tvg-name="hotdrama.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotdrama.il.png",Hot Drama
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotdrama.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotbidurisraeli.il" tvg-name="hotbidurisraeli.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotbidurisraeli.il.png",Hot Entertainment
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotbidurisraeli.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotfun.il" tvg-name="hotfun.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotfun.il.png",Hot Fun
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotfun.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotgold.il" tvg-name="hotgold.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotgold.il.png",Hot Gold
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotgold.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hothbo.il" tvg-name="hothbo.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hothbo.il.png",Hot HBO
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hothbo.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hotzone.il" tvg-name="hotzone.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotzone.il.png",Hot Zone
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hotzone.il.m3u8
+
+
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="hot3.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hot3.il.png",Hot3
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hot3.il.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="knesset.il" tvg-name="knesset.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/knesset.il.png",Knesset
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/knesset.il.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="mikan.il" tvg-name="mikan.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/mikan.il.png",Mikan
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mikan.il.m3u8
+
+
+#EXTINF:-1 tvg-id="mtv.il" tvg-name="mtv.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/mtv.il.png",MTV IL
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.il.m3u8
+
+
+#EXTINF:-1 tvg-id="24.il" tvg-name="24.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/24.il.png",Music 24
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/24.il.m3u8
+
+
+#EXTINF:-1 tvg-id="natgeohd.il" tvg-name="natgeohd.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/natgeohd.il.png",Nat Geo
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/natgeohd.il.m3u8
+
+
+#EXTINF:-1 tvg-id="natgeo.il" tvg-name="natgeo.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/natgeo.il.png",NatGeo
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/natgeo.il.m3u8
+
+
+#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="natgeowild.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/natgeowild.il.png",NatGeo Wild
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/natgeowild.il.m3u8
+
+
+#EXTINF:-1 tvg-id="nationalgeo.il" tvg-name="nationalgeo.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nationalgeo.il.png",National Geographic
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nationalgeo.il.m3u8
+
+
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il" tvg-type="live" group-title="Israel" tvg-
+logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sport1.il.png",Sport 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sport1.il.m3u8
+
+
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sport2.il.png",Sport 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sport2.il.m3u8
+
+
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sport3.il.png",Sport 3
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sport3.il.m3u8
+
+
+#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sport4.il.png",Sport 4
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sport4.il.m3u8
+
+
+#EXTINF:-1 tvg-id="5sporthd.il" tvg-name="5sporthd.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/5sporthd.il.png",Sport 5
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/5sporthd.il.m3u8
+
+
+#EXTINF:-1 tvg-id="5gold.il" tvg-name="5gold.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/5gold.il.png",Sport 5 Gold
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/5gold.il.m3u8
+
+
+#EXTINF:-1 tvg-id="5live.il" tvg-name="5live.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/5live.il.png",Sport 5 Live
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/5live.il.m3u8
+
+
+#EXTINF:-1 tvg-id="5plus.il" tvg-name="5plus.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/5plus.il.png",Sport 5 Plus
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/5plus.il.m3u8
+
+
+#EXTINF:-1 tvg-id="5starts.il" tvg-name="5starts.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/5starts.il.png",Sport 5 Stars
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/5starts.il.m3u8
+
+
+#EXTINF:-1 tvg-id="one.il" tvg-name="one.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/one.il.png",Sport ONE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/one.il.m3u8
+
+
+#EXTINF:-1 tvg-id="one2.il" tvg-name="one2.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/one2.il.png",Sport ONE 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/one2.il.m3u8
+
+
+#EXTINF:-1 tvg-id="teennick.il" tvg-name="teennick.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/teennick.il.png",TeenNick
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/teennick.il.m3u8
+
+
+#EXTINF:-1 tvg-id="travel.il" tvg-name="travel.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/travel.il.png",Travel 
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/travel.il.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="25.il" tvg-name="25.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/25.il.png",Yam Tichoni
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/25.il.m3u8
+
+
+
+#EXTINF:-1 tvg-id="yes1.il" tvg-name="yes1.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes1.il.png",Yes 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes1.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yes2.il" tvg-name="yes2.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes2.il.png",Yes 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes2.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yes3.il" tvg-name="yes3.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes3.il.png",Yes 3
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes3.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yes4.il" tvg-name="yes4.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes4.il.png",Yes 4
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes4.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yes5.il" tvg-name="yes5.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes5.il.png",Yes 5
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes5.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yesaction.il" tvg-name="yesaction.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesaction.il.png",Yes Action
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yesaction.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yescomedy.il" tvg-name="yescomedy.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yescomedy.il.png",Yes Comedy
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yescomedy.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yesdoku.il" tvg-name="yesdoku.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesdoku.il.png",Yes Docu
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yesdoku.il.m3u8
+
+
+#EXTINF:-1 tvg-id="yesdrama.il" tvg-name="yesdrama.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesdrama.il.png",Yes Drama
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yesdrama.il.m3u8
+
+
+
+
+
+
+
